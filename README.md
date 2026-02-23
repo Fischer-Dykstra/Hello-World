@@ -1,6 +1,8 @@
 # Hello-World
 First Repository
-## Heading 1
+## About Me
+
+I am a student at the University of Iowa studying marketing and analytics with a minor in psychology. 
 ## Table of Contents
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
