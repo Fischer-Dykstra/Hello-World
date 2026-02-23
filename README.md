@@ -4,10 +4,33 @@ First Repository
 ## Table of Contents
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [TOOLS USED](#Tools-Used
-- [FILES USED](#files-used)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [ADDITIONAL INFORMATION](#additional-information
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN PROGRAM](#How-to-Run-Program)
+- [ADDITIONAL INFORMATION](#additional-information)
 
 
-## Project title
+## Project Title
+
+*Hello World - My First Repository*
+
+## Description
+
+This is my first GitHub repository. This project is my starting point for managing my data science projects in the future. 
+
+## Tools Used 
+- Python
+- Excel
+- SQL
+
+## Files Used
+- README.md
+- [Icon](https://icon.uiowa.edu/students)
+
+## How to Run Program 
+
+N/A
+
+## Additional information
+
+No additional information at this time 
